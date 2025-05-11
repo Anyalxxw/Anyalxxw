@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently studying at CATEC College (2nd year)  <br>💻 🔭 I’m currently working on **Practicing frontend development by turning Figma design templates into responsive websites**  <br>🎯 I'm learning HTML, CSS, JavaScript and responsive web development  <br>📫 Reach me via Telegram or Email below  <br>🚀 I'm working on improving my full stack skills <br>👨‍💻 All of my projects are available at [https://github.com/anyalxxw](https://github.com/anyalxxw) <br>📫 How to reach me **annastarrr07@gmail.com https://t.me/anyalxxw** <br>⚡ Fun fact **I talk to my code like it's a person — and sometimes it answers 😄**
+🌱 I'm currently studying at CATEC College (2nd year)  <br>💻 I’m currently working on **Practicing frontend development by turning Figma design templates into responsive websites**  <br>🎯 I'm learning HTML, CSS, JavaScript and responsive web development <br>🚀 I'm working on improving my full stack skills <br>👨‍💻 All of my projects are available at [https://github.com/anyalxxw](https://github.com/anyalxxw) <br>📫 How to reach me **annastarrr07@gmail.com https://t.me/anyalxxw** <br>⚡ Fun fact **I talk to my code like it's a person — and sometimes it answers 😄**
 
 
 
